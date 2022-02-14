@@ -1,0 +1,14 @@
+{
+  "resourceName": "s37cb4bff4",
+  "policyUUID": "7cb4bff4",
+  "bucketName": "internappb1f1537b67f9403c9d71941752b1300e",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

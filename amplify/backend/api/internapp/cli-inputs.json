@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "internapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/ec2-user/environment/internapp/amplify/backend/api/internapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
